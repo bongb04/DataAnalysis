@@ -24,3 +24,6 @@ Source:
 -Synthea
 Source: 
 -https://synthea.mitre.org/downloads
+
+
+All of the data was put into SQL server for cleansing before it was put into Power BI and Bold Reports
